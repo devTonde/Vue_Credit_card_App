@@ -1,8 +1,8 @@
-# vue-interactive-paycard (npm package is coming)
+# interactive-paycard
 
 A fantastic credit card form with smooth and sweet micro-interactions. Includes number formatting, validation and automatic card type detection. Built with vuejs and also fully responsive.
 
-See Live: https://codepen.io/JavaScriptJunkie/pen/YzzNGeR
+See Live: https://codepen.io/tonderai-matanga/pen/XWJELMp
 
 ![](demo.gif)
 
